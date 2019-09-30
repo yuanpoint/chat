@@ -8,6 +8,7 @@
 ## 环境准备
 - 1.Maven 3.3.9+
 - 2.Scala 2.11.8
-- 3.Hadoop2.7.3集群
+- 3.Hadoop 2.7.3 集群
 - 4.HBase 1.2.1
+- 5.ZooKeeper 3.4.2 集群
 
