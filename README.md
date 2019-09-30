@@ -11,4 +11,5 @@
 - 3.Hadoop 2.7.3 集群
 - 4.HBase 1.2.1
 - 5.ZooKeeper 3.4.2 集群
+- 6.Spark 2.3.3
 
